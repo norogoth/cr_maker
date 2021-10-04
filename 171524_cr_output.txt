@@ -1,0 +1,3 @@
+/home/ops/diogenes/.bashrc
+*::sub lorem
+*:::changed everything
