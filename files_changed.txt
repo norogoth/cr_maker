@@ -1,8 +1,0 @@
-Issue 123123: Fixing stuff
-
-/home/diogenes/confex/ops/lib/perl/Confex/CGI/TableEditor.pm
-sub asdf - did stuff
-sub rijegr
-asdfsadf
-/home/diogenes/confex/ops/lib/perl/Confex/CGI/218nm/presetslottimeeditor.pm
-sub wefiuhwef

@@ -1,7 +1,4 @@
-/home/diogenes/ops/confex/create_code_ticket.pl
-*::sub example
-*:::changed one thing
-*:::changed another thing
-*: {d:abstract/confex/other file.pl}
-*::sub asdf
-*:::changed everything
+/home/diogenes/confex/code_review/editcr.sh
+*::sub monke
+*:::eat banana
+*:::do poop
