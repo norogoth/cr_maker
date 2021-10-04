@@ -9,5 +9,5 @@ if ! test -f "$FILE"; then
 		*) echo "Assuming that's a 'no.'" && exit ;;
 	esac
 else
-	nvim ~/confex/$1_cr.txt
+	nvim ~/confex/code_review/$1_cr.txt
 fi
